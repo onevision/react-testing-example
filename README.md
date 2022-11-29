@@ -10,7 +10,13 @@ npm run dev
 npx cypress open
 ```
 
+## Running tests
+```
+npm run ci
+```
+
 ## References
 - https://vitejs.dev/guide/
 - https://testing-library.com/docs/cypress-testing-library/intro
 - https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test#What-you-ll-learn
+- https://github.com/bahmutov/start-server-and-test
