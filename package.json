@@ -16,10 +16,12 @@
   },
   "devDependencies": {
     "@testing-library/cypress": "^10.0.1",
+    "@types/node": "^20.8.2",
     "@types/react": "^18.2.24",
     "@types/react-dom": "^18.2.8",
     "@vitejs/plugin-react": "^4.1.0",
     "cypress": "^13.2.0",
+    "cypress-mochawesome-reporter": "^3.6.0",
     "start-server-and-test": "^2.0.1",
     "typescript": "^5.2.2",
     "vite": "^4.4.10"
