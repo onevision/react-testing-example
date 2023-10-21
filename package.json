@@ -15,6 +15,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.6",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
     "@testing-library/cypress": "^10.0.1",
     "@types/node": "^20.8.2",
     "@types/react": "^18.2.24",
