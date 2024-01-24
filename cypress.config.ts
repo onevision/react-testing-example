@@ -5,6 +5,8 @@ import { createEsbuildPlugin } from "@badeball/cypress-cucumber-preprocessor/esb
 import cypressMochawesomePlugin from "cypress-mochawesome-reporter/plugin";
 
 export default defineConfig({
+  viewportWidth: 1440,
+  viewportHeight: 900,
   reporter: "cypress-mochawesome-reporter",
   video: true,
   reporterOptions: { code: false, charts: true },
